@@ -1434,4 +1434,23 @@
   .u-section-7 .u-list-1 {
     width: 340px;
   }
+}.u-section-8 .u-sheet-1 {
+  min-height: 400px;
+}
+
+.u-section-8 .u-video-1 {
+  width: 533px;
+  height: 300px;
+  margin: 50px auto 60px;
+}
+
+@media (max-width: 575px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 291px;
+  }
+
+  .u-section-8 .u-video-1 {
+    width: 340px;
+    height: 191px;
+  }
 }

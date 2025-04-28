@@ -832,6 +832,9 @@
 }
 
 .u-section-3 .u-text-1 {
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  font-size: 1.5rem;
   margin: 0;
 }
 
@@ -908,12 +911,6 @@
 
   .u-section-3 .u-layout-cell-1 {
     min-height: 132px;
-  }
-
-  .u-section-3 .u-text-1 {
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    font-size: 1.5rem;
   }
 
   .u-section-3 .u-layout-cell-2 {
